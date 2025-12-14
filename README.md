@@ -107,7 +107,25 @@ const customerSchema = new mongoose.Schema({
 
 export default mongoose.model("Customer", customerSchema);
 
+---
 
+## 🌐 Deploy to Render
+
+### Backend (Web Service)
+- Root directory: `backend`
+- Build command: `npm install`
+- Start command: `npm start`
+- Add environment variable:  
+  `MONGO_URI` = your MongoDB Atlas connection string
+
+### Frontend (Static Site)
+- Root directory: `frontend`
+- Build command: `npm run build`
+- Publish directory: `dist`
+- Add environment variable:  
+  `VITE_API_URL` = `https://your-backend-url.onrender.com/api`
+
+---
 
 
 ## ⚠️ Common Fixes
