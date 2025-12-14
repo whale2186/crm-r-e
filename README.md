@@ -172,4 +172,12 @@ The goal was to show a working CRUD setup with MongoDB Atlas, Express routes, an
 
 ---
 
+---
+🌍 Live Demo
+###Note: it might take a while to start the backend as Render stops when inactive for 15min
+
+Frontend: https://crm-r-e-frontend.onrender.com
+
+Backend (API): https://crm-r-e-backend.onrender.com/api/customers
+---
 Built with ❤️ for learning MERN and understanding how full-stack apps connect together.
