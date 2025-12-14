@@ -51,7 +51,7 @@ It’s a small beginner-friendly project that shows how to connect a frontend an
 
 ## 🔑 Environment Variables
 
-Create `.env` files locally — don’t upload them to GitHub.
+Create `.env` files locally — not uploaded to GitHub
 
 ### `backend/.env`
 MONGO_URI=mongodb+srv://<username>:<password>@<cluster-host>/crm?retryWrites=true&w=majority
@@ -118,7 +118,7 @@ export default mongoose.model("Customer", customerSchema);
 - Build command: `npm install`
 - Start command: `npm start`
 - Add environment variable:  
-  `MONGO_URI` = your MongoDB Atlas connection string
+  `MONGO_URI` = MongoDB Connection String
 
 ### Frontend (Static Site)
 - Root directory: `frontend`
