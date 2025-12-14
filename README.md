@@ -160,24 +160,27 @@ This project was built to learn and demonstrate how the MERN stack works end-to-
 It’s not meant to be fancy — just clean, simple, and functional.  
 The goal was to show a working CRUD setup with MongoDB Atlas, Express routes, and a small React frontend — and to deploy everything using Render’s free services.
 
-
+---
 
 ### 🧾 Summary
-| Feature | Stack |
-|----------|--------|
-| Frontend | React (Vite) |
-| Backend | Node.js + Express |
-| Database | MongoDB Atlas (via Mongoose) |
-| Hosting | Render (Free Tier) |
+
+| Feature   | Stack |
+|------------|--------|
+| Frontend   | React (Vite) |
+| Backend    | Node.js + Express |
+| Database   | MongoDB Atlas (via Mongoose) |
+| Hosting    | Render (Free Tier) |
 
 ---
 
----
-🌍 Live Demo
-###Note: it might take a while to start the backend as Render stops when inactive for 15min
+## 🌍 Live Demo
 
-Frontend: https://crm-r-e-frontend.onrender.com
+> **Note:** It might take a few seconds for the backend to start because Render puts free instances to sleep after 15 minutes of inactivity.
 
-Backend (API): https://crm-r-e-backend.onrender.com/api/customers
+- **Frontend:** [https://crm-r-e-frontend.onrender.com](https://crm-r-e-frontend.onrender.com)  
+- **Backend (API):** [https://crm-r-e-backend.onrender.com/api/customers](https://crm-r-e-backend.onrender.com/api/customers)
+
 ---
+
 Built with ❤️ for learning MERN and understanding how full-stack apps connect together.
+
