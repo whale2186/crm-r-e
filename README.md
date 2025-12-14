@@ -189,7 +189,7 @@ curl -X DELETE https://your-backend.onrender.com/api/customers/<id>
 
 This project was built to learn and demonstrate how the MERN stack works end-to-end.  
 It’s not meant to be fancy — just clean, simple, and functional.  
-The goal was to show a working CRUD setup with MongoDB Atlas, Express routes, and a small React frontend — and to deploy everything using Render’s free services.
+The goal was to show a working CRUD setup with MongoDB Atlas, Express routes, and a small React frontend.
 
 ---
 
