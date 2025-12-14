@@ -28,7 +28,7 @@ It’s a small beginner-friendly project that shows how to connect a frontend an
 
 ## 🧱 Project Structure
 
-crm-app/
+```crm-app/
 ├── backend/
 │ ├── index.js # Express server + Mongoose setup
 │ ├── models/
@@ -45,7 +45,9 @@ crm-app/
 │ ├── package.json
 │ └── .env # Environment variables (ignored in git)
 │
-└── README.md
+└── README.md```
+
+---
 
 ## 🔑 Environment Variables
 
