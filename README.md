@@ -46,7 +46,7 @@ It’s a small beginner-friendly project that shows how to connect a frontend an
 │ └── .env # Environment variables (ignored in git)
 │
 └── README.md
-
+```
 ---
 
 ## 🔑 Environment Variables
