@@ -115,19 +115,23 @@ export default mongoose.model("Customer", customerSchema);
 ## 💻 Run Locally
 
 ### 1️⃣ Clone the repo
-git clone https://github.com/YOUR_USERNAME/crm-app.git
+```
+git clone https://github.com/YOUR_USERNAME/crm-app.git`
 cd crm-app
+```
 
 ### 2️⃣ Install and start backend
+```
 cd backend
 npm install
 npm run dev
-
+```
 ### 3️⃣ Install and start frontend
+```
 cd ../frontend
 npm install
 npm run dev
-
+```
 Frontend runs on http://localhost:5173  
 Backend runs on http://localhost:5000  
 
