@@ -30,20 +30,22 @@ It’s a small beginner-friendly project that shows how to connect a frontend an
 
 crm-app/
 ├── backend/
-│   ├── index.js            # Express server + Mongoose setup
-│   ├── models/Customer.js  # Mongoose schema
-│   └── package.json
-│
+│ ├── index.js # Express server + Mongoose setup
+│ ├── models/
+│ │ └── Customer.js # Mongoose schema
+│ ├── routes/
+│ │ └── customers.js # API routes for CRUD operations
+│ ├── package.json
+│ └── .env # Environment variables (ignored in git)
 │
 ├── frontend/
-│   ├── src/App.jsx         # React app (Vite)
-│   ├── vite.config.js
-│   └── package.json
-│   
+│ ├── src/
+│ │ └── App.jsx # React app (Vite)
+│ ├── vite.config.js
+│ ├── package.json
+│ └── .env # Environment variables (ignored in git)
 │
 └── README.md
-
----
 
 ## 🔑 Environment Variables
 
