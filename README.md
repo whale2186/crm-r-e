@@ -5,6 +5,15 @@ It’s a small beginner-friendly project that shows how to connect a frontend an
 
 ---
 
+## 🌍 Live Demo
+
+> **Note:** It might take a few seconds for the backend to start because Render puts free instances to sleep after 15 minutes of inactivity.
+
+- **Frontend:** [https://crm-r-e-frontend.onrender.com](https://crm-r-e-frontend.onrender.com)  
+- **Backend (API):** [https://crm-r-e-backend.onrender.com/api/customers](https://crm-r-e-backend.onrender.com/api/customers)
+
+---
+
 ## 🌟 What it Does
 
 - Lets you manage customer data — name, email, phone, company, and notes  
@@ -204,14 +213,6 @@ The goal was to show a working CRUD setup with MongoDB Atlas, Express routes, an
 
 ---
 
-## 🌍 Live Demo
-
-> **Note:** It might take a few seconds for the backend to start because Render puts free instances to sleep after 15 minutes of inactivity.
-
-- **Frontend:** [https://crm-r-e-frontend.onrender.com](https://crm-r-e-frontend.onrender.com)  
-- **Backend (API):** [https://crm-r-e-backend.onrender.com/api/customers](https://crm-r-e-backend.onrender.com/api/customers)
-
----
 
 Built with ❤️ for learning MERN and understanding how full-stack apps connect together.
 
