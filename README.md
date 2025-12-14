@@ -95,6 +95,7 @@ When deployed on Render:
 
 ## 🧩 Mongoose Schema Example
 
+```
 import mongoose from "mongoose";
 
 const customerSchema = new mongoose.Schema({
@@ -106,6 +107,7 @@ const customerSchema = new mongoose.Schema({
 }, { timestamps: true });
 
 export default mongoose.model("Customer", customerSchema);
+```
 
 ---
 
