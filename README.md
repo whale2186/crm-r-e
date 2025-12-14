@@ -116,8 +116,8 @@ export default mongoose.model("Customer", customerSchema);
 
 ### 1️⃣ Clone the repo
 ```
-git clone https://github.com/YOUR_USERNAME/crm-app.git`
-cd crm-app
+git clone https://github.com/whale2186/crm-r-e.git`
+cd crm-r-e
 ```
 
 ### 2️⃣ Install and start backend
