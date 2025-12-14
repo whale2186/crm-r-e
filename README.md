@@ -10,7 +10,7 @@ It’s a small beginner-friendly project that shows how to connect a frontend an
 > **Note:** It might take a few seconds for the backend to start because Render puts free instances to sleep after 15 minutes of inactivity.
 
 - **Frontend:** [https://crm-r-e-frontend.onrender.com](https://crm-r-e-frontend.onrender.com)  
-- **Backend (API):** [https://crm-r-e-backend.onrender.com/api/customers](https://crm-r-e-backend.onrender.com/api/customers)
+- **Backend (API):** [https://crm-r-e.onrender.com/api/customers](https://crm-r-e.onrender.com/api/customers)
 
 ---
 
